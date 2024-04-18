@@ -10,7 +10,7 @@ const About = () => {
       <h1 className="head-text">Hello, I am <span className="blue-gradient_text font-semibold drop-shadow">Vaigarai</span></h1>
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
-        <p>Computer Science student from India, constantly learning and exploring new technologies. I am passionate about building scalable software, creating effective solutions, and learning new things.</p>
+        <p>Computer Science student, AI explorer, cinema lover, and occasional writer. Aspiring polymath (read: charlatan), currently juggling code, coffee, and hope.</p>
       </div>
 
       <div className="py-10 flex flex-col">

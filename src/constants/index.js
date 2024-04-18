@@ -114,7 +114,9 @@ export const experiences = [
         points: [
             "Ensuring the efficiency of ML models using load balancing techniques on AWS.",
             "Management of docker containers and their respective AWS instances for a seamless workflow.",
-            "Implementing cluster network using AWS for the efficient scaling of multiple algorithms."
+            "Implementing cluster network using AWS for the efficient scaling of multiple algorithms.",
+            "Integration of DICOM workflow compatibility into the organization's pathology applications.",
+            "Leveraging Google Healthcare API for improved productivity and data management."
         ],
     },
     {
