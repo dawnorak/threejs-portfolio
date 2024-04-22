@@ -26,6 +26,14 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import pytorch from './pytorch.svg'
+import python from './python.svg'
+import springboot from './springboot.svg'
+import tensorflow from './tensorflow.svg'
+import unity3d from './unity3d.svg'
+import cprogramming from './cprogramming.svg'
+import java from './java.svg'
+import golang from './golang.svg'
 
 export {
     css,
@@ -55,5 +63,13 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    pytorch,
+    python,
+    springboot,
+    unity3d,
+    tensorflow,
+    cprogramming,
+    java,
+    golang
 }
